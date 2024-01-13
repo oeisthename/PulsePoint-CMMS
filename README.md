@@ -1,1 +1,1 @@
-![Black and White Monogram Business Logo (1)](https://github.com/oeisthename/PulsePoint-CMMS/assets/128553335/ecb96af0-f473-4243-8a40-0360bc0bf557)
+![Bright Colored Tumblr Banner (6)](https://github.com/oeisthename/PulsePoint-CMMS/assets/128553335/2ef41cd3-b836-4498-807a-08f485ddea6c)
