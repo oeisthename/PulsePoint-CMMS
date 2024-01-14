@@ -14,3 +14,7 @@ Welcome to PulsePoint, a cutting-edge Computerized Maintenance Management System
 - **Documentation Hub:** Centralized storage for all documentation, ensuring your team has access to the latest information.
 - **Real-time Notifications:** Stay in the loop with instant notifications for task updates and important announcements.
 
+
+## 📝 License
+
+This project is licensed under the MIT License, allowing for collaboration, sharing, and improvement
