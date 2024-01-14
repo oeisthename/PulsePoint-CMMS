@@ -15,6 +15,11 @@ Welcome to PulsePoint, a cutting-edge Computerized Maintenance Management System
 - **Real-time Notifications:** Stay in the loop with instant notifications for task updates and important announcements.
 
 
+## 🖼️ Mockup
+
+Here's a sneak peek at what PulsePoint will look like:
+(mockup will be uploaded later)
+
 ## 📝 License
 
 This project is licensed under the MIT License, allowing for collaboration, sharing, and improvement
